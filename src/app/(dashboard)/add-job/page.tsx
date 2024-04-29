@@ -1,6 +1,10 @@
+import CreateJobForm from "@/components/create-job-form";
+
 function AddJobPage() {
     return (
-        <h1 className="text-4xl">Add Job Page</h1>
+        <>
+            <CreateJobForm />
+        </>
     )
 }
 
