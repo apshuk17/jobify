@@ -8,3 +8,4 @@
 - [ ] Create custom form components
 - [ ] Create form schema using zod
 - [ ] Create the add form component using form components, zod, and react-hook-form
+- [ ] Add Prisma to the project
